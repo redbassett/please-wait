@@ -1,0 +1,7 @@
+a.disabled, textarea.disabled, input.disabled {
+	cursor: not-allowed;
+}
+textarea.disabled {
+	background-color: #eee;
+	opacity: 1;
+}
